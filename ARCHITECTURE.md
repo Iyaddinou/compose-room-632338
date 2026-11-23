@@ -67,4 +67,4 @@
 
 ## 5. Permissions & Device Features
 * **Permissions:** None strictly required for local storage. (Optional: `WRITE_EXTERNAL_STORAGE` or Scoped Storage if implementing CSV export feature).
-* **Localization:** Full RTL (Right-to-Left) support for Arabic language out-of-the-box using Material 3 and Compose layout directions. 
+* **Localization:** Full RTL (Right-to-Left) support for Arabic language out-of-the-box using Material 3 and Compose layout directions.
